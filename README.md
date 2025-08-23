@@ -15,6 +15,13 @@
 
 ## 3. **登陆美区Apple ID**
 
+### 方式一： 自行注册美区苹果账号
+
+*   参考[如何注册美区苹果账号?](https://github.com/hysteria350/Shadowrocket-install/blob/main/how-to-register-an-us-apple-id.md)
+
+### 方式二： 使用共享美区账号
+
+https://github.com/hysteria350/Shadowrocket-install/blob/main/how-to-register-an-us-apple-id.md
 *   [点击获取美区账号密码](https://u25xk.sha.cx/d33dc883f1ca510282122ea17107da80)
 *   复制任意一个 Apple ID 账号与密码复制并粘贴到填写框登录美区苹果账号
 *   回到登陆界面，粘贴账号和密码
