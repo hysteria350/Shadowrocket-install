@@ -46,7 +46,7 @@ https://github.com/hysteria350/Shadowrocket-install/blob/main/how-to-register-an
 
 ## **6.导入订阅**
 
-*   先进行 [订阅购买](https://shortlink.20250812.xyz/1) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。  
+*   先进行 [订阅购买](https://github.com/proxyguide/jichang-recommend) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。  
      
 > 注意:没有邮箱的可以注册一个163邮箱哦!入口:[mail.163.com](https://mail.163.com/register/index.htm?from=163mail&utm_source=163mail#/pn)
 
